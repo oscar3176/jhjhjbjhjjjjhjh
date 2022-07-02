@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    background-size: cover;
+}
+
+
+.heading{
+    width: 100%;
+    font-size: large;
+    text-align: left;
+}
+
+.heading h3 {
+ display: inline;
+}
+
+.heading button {
+    float: right;
+}
+
+
+
+#status {
+    font-size: 25px;
+}
+
+.mario-footer {
+    bottom: 0;
+    position: fixed;
+    background-color: lightslategray;
+    width: 100%;
+    line-height: 3;
+}
+
+canvas {
+    border-color: pink;
+    border-width: 5px;
+    border-style: double;
+    box-shadow: 3px, 3px, 3px, maroon;
+}
